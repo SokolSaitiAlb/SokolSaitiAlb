@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SokolSaitiAlb
-- 👀 I’m interested in Web development 
-- 🌱 I’m currently learning web development 
-- 💞️ I’m looking to collaborate on Motorola g200 5G custom rom
+- 👀 I’m interested in Cyber Security
+- 🌱 I’m currently learning Pentesting
+- 💞️ I’m looking to collaborate on projects about arch linux gaming scriptcs,kernel boost and more.
 - 📫 How to reach me LinkedIn 
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love Android smartphones📱, and i love linux. 
