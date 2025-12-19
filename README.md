@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SokolSaitiAlb
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Pentesting
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on projects about arch linux gaming scriptcs,kernel boost and more.
 - 📫 How to reach me LinkedIn 
 - 😄 Pronouns: He
