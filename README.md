@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SokolSaitiAlb
+- 👋 Hi, I’m @AlbKestrel
 - 👀 I’m interested in Devops
 - 🌱 Architecting High-Performance Linux Environments
 - 💞️ I’m looking to collaborate on projects about arch linux gaming script's,kernel boost and more.
