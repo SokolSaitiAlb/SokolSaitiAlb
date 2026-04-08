@@ -1,3 +1,6 @@
+"AKA Alb Kestrel | Content Creator & DevOps Aspiring Engineer."
+
+
 - 👋 Hi, I’m @AlbKestrel
 - 👀 I’m interested in Devops
 - 🌱 Architecting High-Performance Linux Environments
